@@ -3,3 +3,5 @@ Prénom : Léna
 Sexe : Féminin
 Age : 21 
 Taille : 1m61
+Couleur : Lila
+Lieu de naissance : Mantes La Jolie
